@@ -1,0 +1,11 @@
+﻿#auditContainer {
+    height: 90vh;
+    width: 96vw;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+#auditRecordContainer {
+    height: 70vh;
+    overflow:auto;
+}
